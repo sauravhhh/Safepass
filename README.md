@@ -1,5 +1,5 @@
-# Keylo
-Keylo is a fast, simple, and secure password generator app. It helps you create strong, unique passwords for your accounts in a single click.
+# Safepass
+* Safepass is a fast, simple, and secure password generator app. It helps you create strong, unique passwords for your accounts in a single click.
 # Features
 * Instant Password Generation: Quickly generate tough passwords with a single tap.
 
