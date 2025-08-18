@@ -1,4 +1,4 @@
-# Safepass Password Generator
+# SafePass 
 
 Safepass is a fast, simple, and secure password generator app. Designed to help you create strong, unique passwords for your accounts with a single click, Safepass makes password management effortless and effective.
 
