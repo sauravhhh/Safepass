@@ -10,6 +10,17 @@ Safepass is a fast, simple, and secure password generator app. Designed to help 
 - **100% Client-Side:** All password generation happens in your browser—no data is sent to any server.
 - **Copy & Use:** Effortlessly copy generated passwords to your clipboard.
 
+## Password option 
+
+  | Feature | Description |
+|---------|-------------|
+| **Length Control** | Set password length from 4 to 128 characters |
+| **Uppercase Letters** | Include A-Z characters (optional) |
+| **Lowercase Letters** | Include a-z characters (optional) |
+| **Numbers** | Include 0-9 digits (optional) |
+| **Symbols** | Include special characters like !@#$%^&* (optional) |
+
+
 ## Why Use Safepass?
 
 In today’s digital world, strong and unique passwords are essential for protecting your accounts. Safepass helps you:
